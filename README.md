@@ -5,6 +5,4 @@ A full exploratory analysis in R of The Deconstruction Network's initial study f
 
 ### [Datasets - Kaggle](https://www.kaggle.com/datasets/phildrysdale/the-deconstruction-network-2020-study)
 
-### [Executive Summary](https://docs.google.com/document/d/e/2PACX-1vTmkF77eMudW857BZqpDQOGW-kE9OUbRgZrtW-e_fuLlhmxwBzi7N-DCNIlNVOA7GPHNy0cy7W_qAEQ/pub)
-
-### [Full Report](https://docs.google.com/document/d/e/2PACX-1vS6QPGq9GvQyudr2ZBkCmp-oL9zYIXIQFLn-XPPg_r-LXyMKZJ10SFKYJegl4bQ0Ki4qPXHmIKtX0M-/pub)
+### [Executive Summary](https://www.dropbox.com/s/zhsilhn1ss33rkl/Who%20Are%20Deconstructing%20Christians%202020%20-%20Executive%20Summary%20v1.pdf?dl=0)
